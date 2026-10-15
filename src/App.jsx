@@ -5,9 +5,10 @@ import profileImage from './assets/profile.png'
 // This object stores the words and links shown on the page.
 // You can edit the text here without needing to change the layout below.
 // Change these details to make this website yours.
+//amanda was here
 const siteInfo = {
   name: 'Nguyen Luong Tue Nhi',
-  role: 'Computer science student',
+  role: 'Data Science Student', 
   intro: 'I am learning how to build useful things with code, one small project at a time.',
   // Replace profile.png in src/assets to use your own profile picture.
   image: profileImage,
